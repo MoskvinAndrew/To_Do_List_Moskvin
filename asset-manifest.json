@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/To_Do_List_Moskvin/static/css/main.aa207b39.chunk.css",
+    "main.js": "/To_Do_List_Moskvin/static/js/main.220bea70.chunk.js",
+    "main.js.map": "/To_Do_List_Moskvin/static/js/main.220bea70.chunk.js.map",
+    "runtime-main.js": "/To_Do_List_Moskvin/static/js/runtime-main.12b8174d.js",
+    "runtime-main.js.map": "/To_Do_List_Moskvin/static/js/runtime-main.12b8174d.js.map",
+    "static/js/2.74e52aee.chunk.js": "/To_Do_List_Moskvin/static/js/2.74e52aee.chunk.js",
+    "static/js/2.74e52aee.chunk.js.map": "/To_Do_List_Moskvin/static/js/2.74e52aee.chunk.js.map",
+    "index.html": "/To_Do_List_Moskvin/index.html",
+    "precache-manifest.f4164c28c66b5d9326387d73bb8f7dad.js": "/To_Do_List_Moskvin/precache-manifest.f4164c28c66b5d9326387d73bb8f7dad.js",
+    "service-worker.js": "/To_Do_List_Moskvin/service-worker.js",
+    "static/css/main.aa207b39.chunk.css.map": "/To_Do_List_Moskvin/static/css/main.aa207b39.chunk.css.map",
+    "static/js/2.74e52aee.chunk.js.LICENSE.txt": "/To_Do_List_Moskvin/static/js/2.74e52aee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12b8174d.js",
+    "static/js/2.74e52aee.chunk.js",
+    "static/css/main.aa207b39.chunk.css",
+    "static/js/main.220bea70.chunk.js"
+  ]
+}
